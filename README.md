@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm <span id="text">Web Developer</span>
 <img src="https://t3.ftcdn.net/jpg/05/56/29/10/360_F_556291020_q2ieMiOCKYbtoLITrnt7qcSL1LJYyWrU.jpg" ></img>
 
-
-
 <!--
 **CodewizardN1/CodewizardN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
