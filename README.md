@@ -1,12 +1,115 @@
-<h1 align="center">Hi 👋, I'm Azizbek Abduhakimov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 
-<p align="left">
+![kncoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Abduhakimov+Azizbek;I'm+CODEWIZARD!)
+
+
+## 🎓 I am a Web Developer |  CODEWIZARD
+- ✍ You can find my projects here
+- ✓ I’m currently working on creative web sites
+- 🌱 I’m currently learning Web development
+- 👯 I’m looking to collaborate on open source
+<br/>
+## My favorite tools and technologies ⚙️ 
+
+> Tools and technologies that I have worked with and am interested in
+
+<table align="center">
+    <tr>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>Javascript
+        </td>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+    </tr>
+    <tr>
+        <td align="center"  width="96">
+            <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+            <br>React js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center"  width="96">
+            <a href="https://nextjs.org/" target="_blank"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="react" width="40" height="40"/> </a> 
+            <br>Next js
+        </td>
+        <td align="center" width="96">
+            <a href="#ts">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+            </a>
+            <br>TypeScript
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="48" height="48" alt="firebase" />
+            <br>Firebase
+        </td>
+        <td align="center" width="96">
+            <img src="https://files.raycast.com/7oaucgd6fh2sjztkc0q999qoyfy4" width="48" height="48" alt="ChakraUI" />
+            <br>ChakraUI
+        </td>
+        <td align="center" width="96">
+            <img src="https://img.icons8.com/color/512/redux.png" width="48" height="48" alt="Redux" />
+            <br>Redux
+        </td>
+        <td align="center" width="96">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" height="48" alt="Figma" />
+            <br>Figma
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React-native" />
+            <br>React-native
+        </td>
+        <td align="center" width="96">
+            <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="48" height="48" alt="Unity" />
+            <br>Unity
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+            <br>Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="48" height="48" alt="Zustand" />
+            <br>Zustand
+        </td>
+    </tr>
+</table>
+<br/>
+
+
+
+
+
+## :trophy: kncoder's Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewizardN1&theme=github_dark) 
+
+
+
+
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.com/CodewizardN1/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=CodewizardN1">
+</a>
+    <a href="https://github.com/CodewizardN1?tab=followers">
+        <img src="https://img.shields.io/github/followers/CodewizardN1?label=Followers&style=social" alt="GitHub Badge">
+    </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/CodewizardN1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodewizardN1" /></a><a href="https://ko-fi.com/CodewizardN1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CodewizardN1" /></a></p><br><br>
