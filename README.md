@@ -95,7 +95,7 @@
 
 
 
-## :trophy: kncoder's Github Stats:
+## :trophy: codewizard's Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewizardN1&theme=github_dark) 
 
