@@ -1,6 +1,6 @@
 
 
-![kncoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Abduhakimov+Azizbek;I'm+CODEWIZARD!)
+![kncoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Azizbek;I'm+CODEWIZARD!)
 
 
 ## 🎓 I am a Web Developer |  CODEWIZARD
